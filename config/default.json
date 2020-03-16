@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://Suraj:suraj123@cluster0-rkzld.mongodb.net/socialmedia?retryWrites=true&w=majority",
+    "JWTSecreat": "mysecreattoken"
+}
